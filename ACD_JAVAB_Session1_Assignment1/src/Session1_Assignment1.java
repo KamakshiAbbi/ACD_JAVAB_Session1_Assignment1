@@ -1,5 +1,5 @@
 
-//Session1_Assignment : 23.4.2016
+//Session1_Assignment1 : 23.4.2016
 //Author: Kamakshi Abbi
 public class Session1_Assignment1 {
 	public static void main(String[] args) {
